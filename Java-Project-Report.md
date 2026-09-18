@@ -1,7 +1,7 @@
 # Project Report: Book Management System (Java-Project)
 
-**Repository:** https://github.com/saksham25bai10394/Java-Project
-**Author:** saksham25bai10394 — Student Project, VITyarthi "Build Your Own Project" Initiative
+**Repository:** https://github.com/srivastavutkars12-tech/Book-Management-Java-Project
+**Author:** utkarsh25bai11376 — Student Project, VITyarthi "Build Your Own Project" Initiative
 **Language:** Java (JDK 21, minimum JDK 17)
 
 ---
