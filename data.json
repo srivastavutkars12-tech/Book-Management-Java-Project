@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Hello World",
+    "author": "Me",
+    "isbn": "34",
+    "genre": "Thriller",
+    "totalPages": 345,
+    "currentPage": 0,
+    "status": "UNREAD",
+    "dateAdded": "2026-09-16"
+  }
+]
